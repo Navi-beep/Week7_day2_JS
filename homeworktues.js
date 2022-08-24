@@ -22,7 +22,7 @@ console.log(toCelcius(212));
 
 
 
-// im getting stuck with this one//
+
 /*
     Exercise 2: Create a class for a User that sets username and password property
     on creation. Add a method to change the user's password. The method should take in 
